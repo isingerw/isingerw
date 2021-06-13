@@ -9,6 +9,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Singerw's GitHub stats](https://github-readme-stats.vercel.app/api?username=isingerw)](https://github.com/anuraghazra/github-readme-stats)
+[![Singerw's GitHub stats](https://github-readme-stats.vercel.app/api?username=isingerw)](https://github-readme-stats.vercel.app/api?username=isingerw)
 
 
