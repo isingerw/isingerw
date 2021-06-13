@@ -1,3 +1,4 @@
+
 ### Hi I'm Singerw 👋
 
                           
@@ -18,7 +19,3 @@
 - 💬 个人博客：Singerw'Blog | [https://singerw.com](https://singerw.com)
 
 
-
-<a href="https://github.com/isingerw/CampusOrderingSystem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isingerw&repo=CampusOrderingSystem" />
-</a>
