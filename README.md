@@ -2,7 +2,7 @@
 ### Hi I'm Singerw 👋
 
                           
-<a href="  ">
+<a href="https://github-readme-stats.vercel.app/api?username=isingerw ">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=isingerw&repo=convoychat&theme=buefy  " />
 </a>
 
