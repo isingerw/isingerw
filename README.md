@@ -2,7 +2,7 @@
 
                           
 <a href="https://github.com/singerw/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=isingerw&repo=convoychat&theme=vue" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=isingerw&repo=convoychat&theme=buefy  " />
 </a>
 
 - 🔭 I’m currently learning on XiaMen
@@ -16,3 +16,9 @@
 
 
 - 💬 个人博客：Singerw'Blog | [https://singerw.com](https://singerw.com)
+
+
+
+<a href="https://github.com/isingerw/CampusOrderingSystem">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isingerw&repo=CampusOrderingSystem" />
+</a>
