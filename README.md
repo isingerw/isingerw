@@ -1,7 +1,5 @@
 ### Hi there 👋
-<a href="https://github-readme-stats.vercel.app/api?username=isingerw">
-  <img align="ritght" src="https://github-readme-stats.vercel.app/api?username=isingerw&repo=github-readme-stats" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
