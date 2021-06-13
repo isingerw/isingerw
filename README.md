@@ -1,12 +1,18 @@
-### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+### Hi I'm Singerw 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+                          
+<a href="https://github.com/singerw/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=isingerw&repo=convoychat&theme=vue" />
+</a>
 
+- 🔭 I’m currently learning on XiaMen
+
+- 🌱 I’m currently learning Java
+
+
+- 💬 Ask me about
+  * 😄爱好：杂七杂八搞偏门技术
+  * 😗Email：zhangsingerw@gmail.com
+
+
+- 💬 个人博客：Singerw'Blog | [https://singerw.com](https://singerw.com)
